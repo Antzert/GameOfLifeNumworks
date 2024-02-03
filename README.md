@@ -18,3 +18,5 @@
 1. Exécutez le programme et entrez la taille des cases lorsque vous êtes invité.
 2. Utilisez les touches de direction pour déplacer le curseur.
 3. Appuyez sur les touches définies pour effectuer différentes actions.
+## Numworks
+Voir&nbsp;Sur&nbsp;Numword[https://my.numworks.com/python/guillaume-triay/jeu_de_la_vie]
