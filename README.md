@@ -1,11 +1,5 @@
 # GameOfLifeNumworks
 
-## Sommaire
-- [Instructions d'utilisation](#instructions-dutilisation)
-- [Configuration requise](#configuration-requise)
-- [Installation](#installation)
-- [Comment jouer](#comment-jouer-1)
-
 ## Instructions d'utilisation :
 1. **Flèches** : Déplacez le curseur sur la grille.
 2. **OK** : Placez/retirez une cellule à la position du curseur.
