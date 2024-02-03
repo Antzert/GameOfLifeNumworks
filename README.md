@@ -19,4 +19,4 @@
 2. Utilisez les touches de direction pour déplacer le curseur.
 3. Appuyez sur les touches définies pour effectuer différentes actions.
 ## Numworks
-Voir&nbsp;Sur&nbsp;Numword[https://my.numworks.com/python/guillaume-triay/jeu_de_la_vie]
+[Voir sur le site de Numworks](https://my.numworks.com/python/guillaume-triay/jeu_de_la_vie)
